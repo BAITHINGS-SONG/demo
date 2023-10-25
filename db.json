@@ -33,10 +33,27 @@
         "modified_at": "2023-10-22"
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  "users": [
+    {
+        "uid": 123,
+        "user_email": "test@test.co.kr",
+        "user_name": "test",
+        "user_order_cnt": 12,
+        "user_last_visited": "2023-10-24",
+        "created_at": "2023-10-14",
+        "modified_at": "2023-10-22"
+    },
+    {
+        "uid": 123,
+        "user_email": "test@test.co.kr",
+        "user_name": "test",
+        "user_order_cnt": 12,
+        "user_last_visited": "2023-10-24",
+        "created_at": "2023-10-14",
+        "modified_at": "2023-10-22"
+    }
+]
+,
   "profile": {
     "name": "typicode"
   }
